@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on helical gears.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-611-marine-power-and-propulsion-fall-2006/e79766fcd52d43f802148852326d5d8c_25helical_gears.pdf
+file: /media/courses/2-611-marine-power-and-propulsion-fall-2006/e79766fcd52d43f802148852326d5d8c_25helical_gears.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 25helical_gears.pdf
 uid: e79766fc-d52d-43f8-0214-8852326d5d8c
