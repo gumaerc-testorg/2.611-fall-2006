@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4842d167-7d2b-2d5f-2d39-7b2abe3faef6
 resourcetype: Document
 title: 24mar_eng_fig_1.pdf
 uid: b07657b0-68d8-8223-b650-9f48e7f32480

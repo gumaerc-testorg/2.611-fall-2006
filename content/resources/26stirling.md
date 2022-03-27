@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4842d167-7d2b-2d5f-2d39-7b2abe3faef6
 resourcetype: Other
 title: 26stirling.avi
 uid: aac1729b-9b17-feeb-93b9-935e1a801e71

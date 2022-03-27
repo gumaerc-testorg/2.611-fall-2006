@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4842d167-7d2b-2d5f-2d39-7b2abe3faef6
 resourcetype: Document
 title: 25helical_gears.pdf
 uid: e79766fc-d52d-43f8-0214-8852326d5d8c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4842d167-7d2b-2d5f-2d39-7b2abe3faef6
 resourcetype: Document
 title: 20electri_theory.pdf
 uid: 1da5b647-9f97-f58b-b3e8-b74c7e3f4bc8

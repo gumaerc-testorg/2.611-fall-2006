@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4842d167-7d2b-2d5f-2d39-7b2abe3faef6
 resourcetype: Document
 title: 11rank_reheat.pdf
 uid: fa0f0e69-7d2d-70f9-6255-78be10bd2896

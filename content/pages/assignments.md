@@ -48,17 +48,17 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 
 ### Associated MATLAB® files:
 
-Main ([M](/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/assignments/main.m))
+Main ([M]({{< baseurl >}}/resources/main))
 
-Meanline ([M](/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/assignments/meanline.m))
+Meanline ([M]({{< baseurl >}}/resources/meanline))
 
-Plotting ([M](/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/assignments/plotting.m))
+Plotting ([M]({{< baseurl >}}/resources/plotting))
 
-Reports ([M](/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/assignments/report.m))
+Reports ([M]({{< baseurl >}}/resources/report))
 
-Thickness ([M](/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/assignments/thickness.m))
+Thickness ([M]({{< baseurl >}}/resources/thickness))
 
-VLM ([M](/courses/mechanical-engineering/2-611-marine-power-and-propulsion-fall-2006/assignments/vlm.m))
+VLM ([M]({{< baseurl >}}/resources/vlm-1))
 
 VLM ([FIG]({{< baseurl >}}/resources/vlm))
 

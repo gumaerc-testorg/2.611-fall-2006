@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5b4c7c68-2c7f-6807-1922-8cb38c4b60d2
 resourcetype: Document
 title: 26in_usw_art_aip.pdf
 uid: bda3fdf7-ba19-c5f5-e804-36a9ccd07400

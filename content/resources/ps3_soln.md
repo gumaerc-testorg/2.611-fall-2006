@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f09c8d48-25f8-d4b6-3fb2-e899c89f81b0
 resourcetype: Other
 title: ps3_soln.xmcd
 uid: 5a88064f-d969-f1a7-1779-cff4f6d5723b

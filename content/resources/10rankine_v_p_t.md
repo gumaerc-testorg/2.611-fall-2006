@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4842d167-7d2b-2d5f-2d39-7b2abe3faef6
 resourcetype: Document
 title: 10rankine_v_p_t.pdf
 uid: 1b41f4c4-cb6e-fe3c-d4b6-2509f4ef2778
