@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains supporting MATLAB? file for a problem set.
-file: /media/courses/2-611-marine-power-and-propulsion-fall-2006/9591fa5b6e5c81d2cd3defba3aaf3519_main.m
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/9591fa5b6e5c81d2cd3defba3aaf3519_main.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: main.m
 uid: 9591fa5b-6e5c-81d2-cd3d-efba3aaf3519
 ---
+This resource contains supporting MATLAB? file for a problem set.
+

@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on textbooks and reading assignments
+  by lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 5b4c7c68-2c7f-6807-1922-8cb38c4b60d2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Textbooks
@@ -18,7 +24,7 @@ Lewis, Edward V. "Resistance and Propulsion." _Principles of Naval Architecture_
 
 Van Wylen, Gordon J., and Richard E. Sonntag. _Fundamentals of Classical Thermodynamics_. New York, NY: Wiley, 1973. ISBN: 9780471041887.
 
-Reference Texts for 2.611 ([PDF]({{< baseurl >}}/resources/references))
+Reference Texts for 2.611 ({{% resource_link 75dfea51-b771-84b7-8258-05171e53d859 "PDF" %}})
 
 Reading Assignments by Lecture
 ------------------------------
@@ -71,7 +77,7 @@ Waterjet notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis: pp. 181-183. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/04prevent_cav)) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.)
+Lewis: pp. 181-183. ({{% resource_link 73e1f3bd-ca3d-7d80-ced1-863094f47a40 "PDF" %}}) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +123,7 @@ Combustion
 
 Woud and Stapersma: Section 2.2.3, pp. 19-22.
 
-Also look over the [lecture notes]({{< baseurl >}}/pages/lecture-notes) and handouts.
+Also look over the {{% resource_link 4842d167-7d2b-2d5f-2d39-7b2abe3faef6 "lecture notes" %}} and handouts.
 
 
 {{< tdclose >}}
@@ -233,7 +239,7 @@ Air independent propulsion
 
 Woud and Stapersma: Section 6.2.4.
 
-Air-Independent Propulsion: AIP Technology Creates a New Undersea Threat ([PDF]({{< baseurl >}}/resources/26in_usw_art_aip)) (Courtesy of the U.S. Navy.)
+Air-Independent Propulsion: AIP Technology Creates a New Undersea Threat ({{% resource_link bda3fdf7-ba19-c5f5-e804-36a9ccd07400 "PDF" %}}) (Courtesy of the U.S. Navy.)
 
 
 {{< tdclose >}}

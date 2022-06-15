@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on reduction gears.
-file: /media/courses/2-611-marine-power-and-propulsion-fall-2006/6fcf427f31fad85679d804368004b58f_24gear_notes.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/6fcf427f31fad85679d804368004b58f_24gear_notes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,10 @@ parent_uid: 4842d167-7d2b-2d5f-2d39-7b2abe3faef6
 resourcetype: Document
 title: 24gear_notes.pdf
 uid: 6fcf427f-31fa-d856-79d8-04368004b58f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Lecture notes on reduction gears.
+
