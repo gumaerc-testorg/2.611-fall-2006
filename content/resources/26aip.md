@@ -5,6 +5,7 @@ file: /courses/2-611-marine-power-and-propulsion-fall-2006/d5e2c934ef60a3e4a24ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on air independent propulsion.
-

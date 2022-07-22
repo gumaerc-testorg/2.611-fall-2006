@@ -5,6 +5,7 @@ file: /courses/2-611-marine-power-and-propulsion-fall-2006/1b41f4c4cb6efe3cd4b62
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on the Rankine cycle at various steam pressures and temperatures.
-

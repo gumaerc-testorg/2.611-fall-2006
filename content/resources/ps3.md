@@ -5,6 +5,7 @@ file: /courses/2-611-marine-power-and-propulsion-fall-2006/a311ef2fa4110a9b5396b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on propeller design.
-

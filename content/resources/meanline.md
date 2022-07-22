@@ -5,6 +5,7 @@ file: /courses/2-611-marine-power-and-propulsion-fall-2006/3fc91639ebf6d743ee9a1
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: meanline.m
 uid: 3fc91639-ebf6-d743-ee9a-1a07a9db53b0
 ---
 This resource contains supporting MATLAB? file for a problem set.
-

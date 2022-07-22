@@ -5,6 +5,7 @@ file: /courses/2-611-marine-power-and-propulsion-fall-2006/ed50f2e8e3025f4d22e77
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vlm.m
 uid: ed50f2e8-e302-5f4d-22e7-78fafed9a10e
 ---
 This resource contains supporting MATLAB? file for a problem set.
-
