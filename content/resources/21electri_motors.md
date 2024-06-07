@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes with an overview of electrical motors and generators.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/a36fcb00241b38617ae1d18160c320b2_21electri_motors.pdf
+file_size: 167787
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

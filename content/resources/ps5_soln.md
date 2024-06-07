@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set solutions.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/7858afc972af2f8fe7141a154b5620f3_ps5_soln.pdf
+file_size: 215006
 file_type: application/pdf
 learning_resource_types:
 - Assignments

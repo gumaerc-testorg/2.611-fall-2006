@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout on units (propulsors).
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/1c6d5745898e3101d511a4260f1d7081_07units.pdf
+file_size: 68851
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
