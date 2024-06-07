@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains reference for the course.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/75dfea51b77184b7825805171e53d859_references.pdf
+file_size: 62672
 file_type: application/pdf
 learning_resource_types:
 - Readings

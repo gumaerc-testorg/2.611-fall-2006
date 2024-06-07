@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on propeller problems.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/9278226770186649c7b008ef9c4f5845_ps1.pdf
+file_size: 71973
 file_type: application/pdf
 learning_resource_types:
 - Assignments

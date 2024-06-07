@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the basic practical diesel cycle.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/7392279a5ce43fe2a653d6b4a8f58de8_14basic_diesel.pdf
+file_size: 197412
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

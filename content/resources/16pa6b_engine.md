@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/ef9780ba832dd6c46e5a8d2e58fb30ab_16pa6B_engine.pdf
+file_size: 42262
 file_type: application/octet-stream
 learning_resource_types:
 - Readings
