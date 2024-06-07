@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on basic thermodynamic cycles.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/024390cef74687197c39ca03781980d2_ps4.pdf
+file_size: 18803
 file_type: application/pdf
 learning_resource_types:
 - Assignments

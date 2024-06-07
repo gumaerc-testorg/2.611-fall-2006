@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout on actuator disks.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/a38fb099d40fcc67b2171c29b9ce7f57_02actuator_disk.pdf
+file_size: 73972
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

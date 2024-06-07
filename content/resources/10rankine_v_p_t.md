@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the Rankine cycle at various steam pressures and temperatures.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/1b41f4c4cb6efe3cd4b62509f4ef2778_10rankine_v_p_t.pdf
+file_size: 149657
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

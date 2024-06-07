@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on propeller testing.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/a0b75e4570cbaebb07e9862996334217_02propeller_test.pdf
+file_size: 124667
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

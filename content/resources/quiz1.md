@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a quiz.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/4d69f6b9d3f73b44e842a636b61a8e2c_quiz1.pdf
+file_size: 98573
 file_type: application/pdf
 learning_resource_types:
 - Exams
