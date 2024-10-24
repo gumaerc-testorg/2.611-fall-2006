@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Course reading on propulsion, propeller design, and cavitation.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/73e1f3bdca3d7d80ced1863094f47a40_04prevent_cav.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/73e1f3bdca3d7d80ced1863094f47a40_04prevent_cav.pdf
 file_size: 274152
 file_type: application/pdf
 learning_resource_types:
