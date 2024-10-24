@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on cavitation.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/b5483b7eff2776524737db0929227a26_04cavitation.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/b5483b7eff2776524737db0929227a26_04cavitation.pdf
 file_size: 162325
 file_type: application/pdf
 learning_resource_types:

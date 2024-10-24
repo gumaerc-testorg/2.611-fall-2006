@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on waterjet problems.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/6591d202f9cb7c1aae20a0f2e963523c_ps2.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/6591d202f9cb7c1aae20a0f2e963523c_ps2.pdf
 file_size: 78940
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on gas turbines and diesel engines.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/cce3bb580e08c662cb810b1dc6a844e4_ps6.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/cce3bb580e08c662cb810b1dc6a844e4_ps6.pdf
 file_size: 77532
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the detail stage of propeller design.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/79b5acff62f578f687dfc082cf380a14_03prop_des_det.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/79b5acff62f578f687dfc082cf380a14_03prop_des_det.pdf
 file_size: 128446
 file_type: application/pdf
 learning_resource_types:
