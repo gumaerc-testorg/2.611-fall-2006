@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with a summary of thermo.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/e4c4c636ccaff892c28b3f6e0f07e208_05thermo_summ.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/e4c4c636ccaff892c28b3f6e0f07e208_05thermo_summ.pdf
 file_size: 178542
 file_type: application/pdf
 learning_resource_types:

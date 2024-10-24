@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on reliability and availability.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/8fd4b50ef794af75294c44aa555196c3_23reliability.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/8fd4b50ef794af75294c44aa555196c3_23reliability.pdf
 file_size: 101253
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains supporting MATLAB? file for a problem set.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/93564c4db5f788a8deaffb9ce3724648_plotting.m
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/93564c4db5f788a8deaffb9ce3724648_plotting.m
 file_size: 702
 file_type: text/plain
 learning_resource_types:

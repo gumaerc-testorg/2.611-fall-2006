@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on propeller design.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/a311ef2fa4110a9b5396bf6fd3ff241b_ps3.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/a311ef2fa4110a9b5396bf6fd3ff241b_ps3.pdf
 file_size: 17420
 file_type: application/pdf
 learning_resource_types:
