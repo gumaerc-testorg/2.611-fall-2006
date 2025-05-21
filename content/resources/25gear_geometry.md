@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on gear geometry.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/0cf4f32cc8e19e5f2db132701f54e475_25gear_geometry.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/0cf4f32cc8e19e5f2db132701f54e475_25gear_geometry.pdf
 file_size: 5606355
 file_type: application/pdf
 learning_resource_types:

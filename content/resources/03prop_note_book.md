@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/6e05bb5e9612760ca8d1a9746cbf9a95_03prop_note_book.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/6e05bb5e9612760ca8d1a9746cbf9a95_03prop_note_book.pdf
 file_size: 959659
 file_type: application/pdf
 learning_resource_types:

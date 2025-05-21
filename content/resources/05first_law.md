@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the First Law.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/81d9f26805d769136b097b2cb3df9376_05first_law.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/81d9f26805d769136b097b2cb3df9376_05first_law.pdf
 file_size: 192563
 file_type: application/pdf
 learning_resource_types:
