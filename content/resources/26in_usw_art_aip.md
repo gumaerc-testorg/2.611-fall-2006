@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Course reading on air-independent propulsion.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/bda3fdf7ba19c5f5e80436a9ccd07400_26in_usw_art_aip.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/bda3fdf7ba19c5f5e80436a9ccd07400_26in_usw_art_aip.pdf
 file_size: 597090
 file_type: application/pdf
 learning_resource_types:

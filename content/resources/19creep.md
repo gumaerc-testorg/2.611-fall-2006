@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on creep.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/95b4941083d3aee48556bbb112012724_19creep.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/95b4941083d3aee48556bbb112012724_19creep.pdf
 file_size: 119028
 file_type: application/pdf
 learning_resource_types:

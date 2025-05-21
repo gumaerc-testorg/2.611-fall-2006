@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on gear geometry, gear automation, and gear design.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/c0dade71c6dfe8f7770fdd3f2eecd673_25gear_dsgn_anim.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/c0dade71c6dfe8f7770fdd3f2eecd673_25gear_dsgn_anim.pdf
 file_size: 1078398
 file_type: application/pdf
 learning_resource_types:

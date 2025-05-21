@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines and instructions for the second phase of the Frigate Propulsion
   Plant Design Project.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/5bfb2dc5d9cfbb31ea4d7995e6ac7bc2_part2.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/5bfb2dc5d9cfbb31ea4d7995e6ac7bc2_part2.pdf
 file_size: 70378
 file_type: application/pdf
 learning_resource_types:

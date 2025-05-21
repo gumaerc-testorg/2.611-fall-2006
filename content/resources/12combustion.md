@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on combustion.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/2c5d9e4d243e2f26ca060c6d171d4361_12combustion.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/2c5d9e4d243e2f26ca060c6d171d4361_12combustion.pdf
 file_size: 208367
 file_type: application/pdf
 learning_resource_types:
