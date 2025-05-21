@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on hull resistance, propulsion, hull efficiency, and propeller
   efficiency.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/c84dec9556d65b3a0cb8c6c99b464a4d_01resistanc_prop.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/c84dec9556d65b3a0cb8c6c99b464a4d_01resistanc_prop.pdf
 file_size: 161279
 file_type: application/pdf
 learning_resource_types:

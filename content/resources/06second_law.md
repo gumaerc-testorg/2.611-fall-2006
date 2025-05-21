@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the Second Law.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/4c32b0845d40ee00555da443f8a0f58b_06second_law.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/4c32b0845d40ee00555da443f8a0f58b_06second_law.pdf
 file_size: 231515
 file_type: application/pdf
 learning_resource_types:

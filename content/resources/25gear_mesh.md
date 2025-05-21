@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture video showing gear meshing.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/e76d4e0ac0c68d5ee9f22c0aa36f4bbc_25gear_mesh.avi
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/e76d4e0ac0c68d5ee9f22c0aa36f4bbc_25gear_mesh.avi
 file_size: 1097728
 file_type: video/x-msvideo
 learning_resource_types:

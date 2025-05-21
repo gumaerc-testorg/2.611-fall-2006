@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on the properties of gases.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/68b5bb79d5f51643b45a0a747c34d470_13prop_gases.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/68b5bb79d5f51643b45a0a747c34d470_13prop_gases.pdf
 file_size: 115899
 file_type: application/pdf
 learning_resource_types:

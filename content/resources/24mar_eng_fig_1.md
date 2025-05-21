@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on marine engineering and reduction gears.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/b07657b068d88223b6509f48e7f32480_24mar_eng_fig_1.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/b07657b068d88223b6509f48e7f32480_24mar_eng_fig_1.pdf
 file_size: 242822
 file_type: application/pdf
 learning_resource_types:

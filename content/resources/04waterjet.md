@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on waterjets.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/3b26401197d2c93c660289c51fa8e7bb_04waterjet.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/3b26401197d2c93c660289c51fa8e7bb_04waterjet.pdf
 file_size: 133085
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on diesel engines.
-file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/22c23925e5613a194b2c936bdba8bd10_ps5.pdf
+file: /courses/2-611-marine-power-and-propulsion-fall-2006/22c23925e5613a194b2c936bdba8bd10_ps5.pdf
 file_size: 1161938
 file_type: application/pdf
 learning_resource_types:
