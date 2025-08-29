@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and instructions for the Frigate Plant Design Project.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/8a95229c734ef2f01eb737540eedcc44_part1.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/8a95229c734ef2f01eb737540eedcc44_part1.pdf
 file_size: 70852
 file_type: application/pdf
 learning_resource_types:
