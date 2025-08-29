@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on comparison of Rankine with single regeneration.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/1724de3da37efc23309451bb4c490f65_11rankine_regen.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/1724de3da37efc23309451bb4c490f65_11rankine_regen.pdf
 file_size: 219254
 file_type: application/pdf
 learning_resource_types:

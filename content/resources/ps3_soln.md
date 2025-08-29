@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solutions to Problem Set 3.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/5a88064fd969f1a71779cff4f6d5723b_ps3_soln.xmcd
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/5a88064fd969f1a71779cff4f6d5723b_ps3_soln.xmcd
 file_size: 111033
 file_type: text/xml
 learning_resource_types:

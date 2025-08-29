@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to a quiz.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/5e1257d9dd624d26c4a32285e871400c_quiz1_sol.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/5e1257d9dd624d26c4a32285e871400c_quiz1_sol.pdf
 file_size: 133072
 file_type: application/pdf
 learning_resource_types:

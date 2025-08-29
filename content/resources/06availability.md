@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on availability.
-file: /courses/2-611-marine-power-and-propulsion-fall-2006/2aa5e219493048f77ad052b4b58ed901_06availability.pdf
+file: /ol-ocw-studio-app/courses/2-611-marine-power-and-propulsion-fall-2006/2aa5e219493048f77ad052b4b58ed901_06availability.pdf
 file_size: 171297
 file_type: application/pdf
 learning_resource_types:
